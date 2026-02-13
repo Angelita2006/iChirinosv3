@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">iChirinosv2</string>
+    <string name="app_version">SQLite</string>
+
+    <string name="title_splash"> </string>
+    <string name="title_home">Home</string>
+    <string name="title_login">Login</string>
+    <string name="title_prefs">Preferencias</string>
+    <string name="title_dptosbus">Buscador Dptos</string>
+    <string name="title_dptosmto">Mantenimiento Dptos</string>
+    <string name="title_aulasbus">Buscador Aulas</string>
+    <string name="title_aulasmto">Mantenimiento Aulas</string>
+    <string name="title_aulasfiltro">Filtro Aulas</string>
+    <string name="title_armariosbus">Buscador Armarios</string>
+    <string name="title_armariosmto">Mantenimiento Armarios</string>
+    <string name="title_productosbus">Buscador Productos</string>
+    <string name="title_productosmto">Mantenimiento Productos</string>
+    <string name="title_productosfiltro">Filtro Productos</string>
+    <string name="title_productosnsbus">Buscador Núm. Serie</string>
+    <string name="title_productosnsmto">Mantenimiento Núm. Serie</string>
+
+    <string name="label_home">Home</string>
+    <string name="label_dptos">Dptos</string>
+    <string name="label_aulas">Aulas</string>
+    <string name="label_armarios">Armarios</string>
+    <string name="label_productos">Productos</string>
+    <string name="label_productosns">ProductosNS</string>
+
+    <string name="menu_login">Login</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_prefs">Preferencias</string>
+    <string name="menu_salir">Salir</string>
+
+    <string name="txt_login_dptos">Departamentos</string>
+    <string name="txt_login_clave">Clave</string>
+    <string name="txt_pref_dsname">Nombre DS</string>
+    <string name="txt_pref_dbname">Nombre BD</string>
+    <string name="txt_pref_showloginonstart">Mostrar Login al inicio</string>
+    <string name="txt_pref_defaulttimesplash">Tiempo Splash por defecto</string>
+    <string name="txt_mto_dptos_id">Identificador</string>
+    <string name="txt_mto_dptos_nombre">Nombre</string>
+    <string name="txt_mto_dptos_clave">Clave</string>
+    <string name="txt_mto_aulas_iddpto">Departamento</string>
+    <string name="txt_mto_aulas_id">Identificador</string>
+    <string name="txt_mto_aulas_nombre">Nombre</string>
+    <string name="txt_filtro_aulas_dptos">Departamentos</string>
+    <string name="txt_mto_armarios_iddpto">Departamento</string>
+    <string name="txt_mto_armarios_idaula">Aula</string>
+    <string name="txt_mto_armarios_id">Identificador</string>
+    <string name="txt_mto_armarios_nombre">Nombre</string>
+    <string name="txt_mto_productos_iddpto">Departamento</string>
+    <string name="txt_mto_productos_id">Identificador</string>
+    <string name="txt_mto_productos_fecalta">Fecha Alta</string>
+    <string name="txt_mto_productos_fecbaja">Fecha Baja</string>
+    <string name="txt_mto_productos_estado">Alta/Baja</string>
+    <string name="txt_mto_productos_descripcion">Descripción</string>
+    <string name="txt_mto_productos_cantidad">Cantidad</string>
+    <string name="txt_mto_productos_tipo">Tipo:</string>
+    <string name="txt_mto_productos_tipohard">Hard</string>
+    <string name="txt_mto_productos_tiposoft">Soft</string>
+    <string name="txt_mto_productos_tipootro">Otro</string>
+    <string name="txt_mto_productos_idaula">Aula</string>
+    <string name="txt_mto_productos_idarmario">Armario</string>
+    <string name="txt_mto_productos_aulas">Aulas</string>
+    <string name="txt_mto_productos_armarios">Armarios</string>
+    <string name="txt_filtro_productos_dptos">Departamentos</string>
+    <string name="txt_filtro_productos_fecaltadesde">Fecha Alta Desde</string>
+    <string name="txt_filtro_productos_estado">Estado:</string>
+    <string name="txt_filtro_productos_estadotodos">Todos</string>
+    <string name="txt_filtro_productos_estadoalta">Alta</string>
+    <string name="txt_filtro_productos_estadobaja">Baja</string>
+    <string name="txt_filtro_productos_aulas">Aulas</string>
+    <string name="txt_filtro_productos_armarios">Armarios</string>
+    <string name="txt_mto_productosns_iddpto">Departamento</string>
+    <string name="txt_mto_productosns_idproducto">Producto</string>
+    <string name="txt_mto_productosns_idproductons">Identificador</string>
+    <string name="txt_mto_productosns_numserie">Núm. Serie</string>
+
+    <string name="value_pref_dsname">iChirinosDS</string>
+    <string name="value_pref_dbname">iChirinosDB</string>
+    <string name="value_pref_showloginonstart">false</string>
+    <string name="value_pref_defaulttimesplash">10</string>
+
+    <string name="but_cancelar">Cancelar</string>
+    <string name="but_aceptar">Aceptar</string>
+
+    <string name="msg_salir">¿Desea cerrar la App?</string>
+    <string name="msg_borrar">¿Está seguro que quiere borrar el elemento seleccionado?</string>
+    <string name="msg_nologin">No Login!!</string>
+    <string name="msg_login_ok">Login correcto</string>
+    <string name="msg_login_ko">Login incorrecto!!</string>
+    <string name="msg_pref_ok">Preferencias correctas</string>
+    <string name="msg_pref_ko">Preferencias incorrectas!!</string>
+    <string name="msg_alta_ok">Alta correcta</string>
+    <string name="msg_alta_ko">Alta incorrecta!!</string>
+    <string name="msg_editar_ok">Actualización correcta</string>
+    <string name="msg_editar_ko">Actualización incorrecta!!</string>
+    <string name="msg_baja_ok">Baja correcta</string>
+    <string name="msg_baja_ko">Baja incorrecta!!</string>
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127116669101",
+    "project_id": "ichirinosv3",
+    "storage_bucket": "ichirinosv3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127116669101:android:37c5036f65a6440ce61624",
+        "android_client_info": {
+          "package_name": "com.dam.ichirinosv3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFSTec1-HKPZ0KJKgw1Icb2-oD6q3kr6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
